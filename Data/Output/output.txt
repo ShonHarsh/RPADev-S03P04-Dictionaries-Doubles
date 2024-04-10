@@ -1,0 +1,13 @@
+04/10/2024 18:43:25 => [Debug] Debug started for file: Main
+04/10/2024 18:43:25 => [Info] RPADev-S03P04-Dictionaries-Doubles execution started
+04/10/2024 18:43:25 => [Info] RPADev-S03P04-Dictionaries-Doubles.Main.Begin;
+04/10/2024 18:43:27 => [Info] RPADev-S03P04-Dictionaries-Doubles.Main.NoSelectionNote; Nothing chosen by the user.  Printing all items.
+04/10/2024 18:43:27 => [Info] RPADev-S03P04-Dictionaries-Doubles.Main.NoSelectionPrint; City: Madrid, Total Weight: 2.1
+04/10/2024 18:43:27 => [Info] RPADev-S03P04-Dictionaries-Doubles.Main.NoSelectionPrint; City: Paris, Total Weight: 7.7
+04/10/2024 18:43:27 => [Info] RPADev-S03P04-Dictionaries-Doubles.Main.NoSelectionPrint; City: New York, Total Weight: 5.300000000000001
+04/10/2024 18:43:27 => [Info] RPADev-S03P04-Dictionaries-Doubles.Main.NoSelectionPrint; City: Berlin, Total Weight: 0.8
+04/10/2024 18:43:27 => [Info] RPADev-S03P04-Dictionaries-Doubles.Main.NoSelectionPrint; City: San Francisco, Total Weight: 2.8
+04/10/2024 18:43:27 => [Info] RPADev-S03P04-Dictionaries-Doubles.Main.NoSelectionPrint; City: Cairo, Total Weight: 1.3
+04/10/2024 18:43:27 => [Info] RPADev-S03P04-Dictionaries-Doubles.Main.NoSelectionPrint; City: Chicago, Total Weight: 1.9
+04/10/2024 18:43:27 => [Info] RPADev-S03P04-Dictionaries-Doubles.Main.End;
+04/10/2024 18:43:27 => [Info] RPADev-S03P04-Dictionaries-Doubles execution ended in: 00:00:02

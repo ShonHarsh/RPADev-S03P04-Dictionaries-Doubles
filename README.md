@@ -2,10 +2,6 @@
 
 # S03P04 Dictionaries & Doubles
 
-# Note!
-### This project currently has some assembly issues.  My instinct is telling me that this issue will sort itself out if I wait for the packages to update or perhaps I just need to restart my computer.  Thus I am pausing on this project for now.
-# /Note
-
 This project is my solution in **C#** to the **Dictionaries & Doubles** practice found in section 03 practice 04 of the UiPath - RPA Developer Foundation course.
 
 ### Getting Started
@@ -38,7 +34,7 @@ New Dictionary(Of String, Dictionary(Of String, Double)) From {
 
 **Section:** 03 Data Manipulation
 
-**Practice:** 03 Dictionaries & Integers
+**Practice:** 04 Dictionaries & Doubles
 
 **Project Format:** Windows, C#
 
@@ -47,10 +43,19 @@ New Dictionary(Of String, Dictionary(Of String, Double)) From {
 ### Sample Output
 
 ```
-Unexpected error has occurred during the library compilation process:
-The assembly compilation returned the following errors:
- * warning CS1701: Assuming assembly reference 'System.Linq.Expressions, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' used by 'System.Activities' matches identity 'System.Linq.Expressions, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' of 'System.Linq.Expressions', you may need to supply runtime policy
- * warning CS1701: Assuming assembly reference 'System.Linq.Expressions, Version=6.0.0.0, Culture=neutral, 
+04/10/2024 18:43:25 => [Debug] Debug started for file: Main
+04/10/2024 18:43:25 => [Info] RPADev-S03P04-Dictionaries-Doubles execution started
+04/10/2024 18:43:25 => [Info] RPADev-S03P04-Dictionaries-Doubles.Main.Begin;
+04/10/2024 18:43:27 => [Info] RPADev-S03P04-Dictionaries-Doubles.Main.NoSelectionNote; Nothing chosen by the user.  Printing all items.
+04/10/2024 18:43:27 => [Info] RPADev-S03P04-Dictionaries-Doubles.Main.NoSelectionPrint; City: Madrid, Total Weight: 2.1
+04/10/2024 18:43:27 => [Info] RPADev-S03P04-Dictionaries-Doubles.Main.NoSelectionPrint; City: Paris, Total Weight: 7.7
+04/10/2024 18:43:27 => [Info] RPADev-S03P04-Dictionaries-Doubles.Main.NoSelectionPrint; City: New York, Total Weight: 5.300000000000001
+04/10/2024 18:43:27 => [Info] RPADev-S03P04-Dictionaries-Doubles.Main.NoSelectionPrint; City: Berlin, Total Weight: 0.8
+04/10/2024 18:43:27 => [Info] RPADev-S03P04-Dictionaries-Doubles.Main.NoSelectionPrint; City: San Francisco, Total Weight: 2.8
+04/10/2024 18:43:27 => [Info] RPADev-S03P04-Dictionaries-Doubles.Main.NoSelectionPrint; City: Cairo, Total Weight: 1.3
+04/10/2024 18:43:27 => [Info] RPADev-S03P04-Dictionaries-Doubles.Main.NoSelectionPrint; City: Chicago, Total Weight: 1.9
+04/10/2024 18:43:27 => [Info] RPADev-S03P04-Dictionaries-Doubles.Main.End;
+04/10/2024 18:43:27 => [Info] RPADev-S03P04-Dictionaries-Doubles execution ended in: 00:00:02
 ```
 
 ### Architecture Requirements
