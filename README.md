@@ -38,7 +38,7 @@ New Dictionary(Of String, Dictionary(Of String, Double)) From {
 
 **Section:** 03 Data Manipulation
 
-**Practice:** 03 Dictionaries & Integers
+**Practice:** 04 Dictionaries & Doubles
 
 **Project Format:** Windows, C#
 
@@ -50,7 +50,7 @@ New Dictionary(Of String, Dictionary(Of String, Double)) From {
 Unexpected error has occurred during the library compilation process:
 The assembly compilation returned the following errors:
  * warning CS1701: Assuming assembly reference 'System.Linq.Expressions, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' used by 'System.Activities' matches identity 'System.Linq.Expressions, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' of 'System.Linq.Expressions', you may need to supply runtime policy
- * warning CS1701: Assuming assembly reference 'System.Linq.Expressions, Version=6.0.0.0, Culture=neutral, 
+ * warning CS1701: Assuming assembly reference 'System.Linq.Expressions, Version=6.0.0.0, Culture=neutral,
 ```
 
 ### Architecture Requirements
